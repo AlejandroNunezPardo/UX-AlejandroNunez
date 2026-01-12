@@ -2,6 +2,8 @@
 
 Proyecto de Blender de Alejandro Nuñez Pardo
 
+He puesto citas a lo largo del codigo para que se sepa más claro de que esto hablando en cada momento de la explicaion
+
 
 # Addon de Herramientas para Artistas 3D - Blender
 [cite_start]**Proyecto de UI: UX, Interfaces de Usuario y Herramientas** [cite: 1, 2]
